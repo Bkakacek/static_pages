@@ -13,7 +13,7 @@ Jazz is found in many aspects of American lifestyles. Nightclubs, subway station
 
 
 	3 Ways Jazz Influences The World
----------------------------------
+------------------------------------
 
 1) Jazz influences your brain
 
