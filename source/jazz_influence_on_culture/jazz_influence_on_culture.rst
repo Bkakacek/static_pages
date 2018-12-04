@@ -12,8 +12,8 @@ Jazz is found in many aspects of American lifestyles. Nightclubs, subway station
 	Ma Rainey Georgia Jazz Band of the 1920s.
 
 
-	3 Ways Jazz Influences The World
-------------------------------------
+3 Ways Jazz Influences The World
+--------------------------------
 
 1) Jazz influences your brain
 
