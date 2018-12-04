@@ -7,8 +7,6 @@ These are the most popular hip hop songs in 2018
 .. image: : billboard.png
 	:width: 50%
 
-	Billboard chart logo
-
 =========== ===============
 Song Title	Weeks on Chart
 =========== ===============
