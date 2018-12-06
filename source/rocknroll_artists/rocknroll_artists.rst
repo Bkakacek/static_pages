@@ -1,9 +1,9 @@
 Popular Artists
 ===============
 
-=================================== =======================================================================================================
+====================================================================================================================================
 Songs		  						Description
-=================================== =======================================================================================================
+====================================================================================================================================
 1) Chuck Berry			             Otherwise known as Charles Edward Anderson Berry, was an American singer, songwriter, 
 									 and one of the pioneers that helped create rock and roll. Berry refined and developed
 									 rhythm and blues into the major elements that made rock and roll distinctive.
@@ -12,6 +12,9 @@ Songs		  						Description
 									 and the Kennedy Center honors in 2000. He was ranked 7th on best electric guitar
 									 players of all time, and included in several of Rolling Stone’s
 									 “Greatest of All Time” lists.
+									 
+									 .. image:: chuckberry.jpg
+									 	:width 50%
 
 2) Little Richard					 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
  									 artist, singer-songwriter, and actor. He was another pioneer of rock and roll music who
@@ -23,7 +26,7 @@ Songs		  						Description
 									 a Lifetime Achievement Award from the Rhythm and Blues Foundation.
 
 
-3) Elivs Presley					 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
+3) Elvis Presley					 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
 									 American singer and actor. He was often Regarded as one of the most significant
 									 cultural icons of the 20th century. His career began at Sun Records, who wanted
 									 to bring the sound of African-American music to a wider audience, so they had a
@@ -47,4 +50,4 @@ Songs		  						Description
 									 digital albums as of 2013. The Rolling Stone ranked the Beatles as the best artist of
 									 all time. In 2014, they received the Grammy Lifetime Achievement Award.
 
-=================================== =======================================================================================================
+====================================================================================================================================
