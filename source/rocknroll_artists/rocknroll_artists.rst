@@ -1,9 +1,9 @@
 Popular Artists
 ===============
 
-=================================== =======================================================================================================
+====================================================================================================================================
 Songs		  						Description
-=================================== =======================================================================================================
+====================================================================================================================================
 1) Chuck Berry			             Otherwise known as Charles Edward Anderson Berry, was an American singer, songwriter, 
 									 and one of the pioneers that helped create rock and roll. Berry refined and developed
 									 rhythm and blues into the major elements that made rock and roll distinctive.
@@ -12,6 +12,8 @@ Songs		  						Description
 									 and the Kennedy Center honors in 2000. He was ranked 7th on best electric guitar
 									 players of all time, and included in several of Rolling Stone’s
 									 “Greatest of All Time” lists.
+									 .. image:: chuckberry.jpg
+									 	:width 50%
 
 2) Little Richard					 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
  									 artist, singer-songwriter, and actor. He was another pioneer of rock and roll music who
@@ -47,4 +49,4 @@ Songs		  						Description
 									 digital albums as of 2013. The Rolling Stone ranked the Beatles as the best artist of
 									 all time. In 2014, they received the Grammy Lifetime Achievement Award.
 
-=================================== =======================================================================================================
+====================================================================================================================================

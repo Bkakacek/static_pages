@@ -1,12 +1,12 @@
 Popular Songs
 =============
 
-=================================== =======================================================================================================
+================================================================================================================================
 Songs		  						Description
-=================================== =======================================================================================================
-1) Hey Jude			                 Written by The Beatles, Paul McCartney wrote it for Julian, John Lennon’s son, after John Lennon 
-									 had filed for divorce. The single lasts seven minutes, and was the first single produced 
-									 by Apple Records. In 2013 Billboard named it the tenth best song ever.
+================================================================================================================================
+1) Hey Jude			                 Written by The Beatles, Paul McCartney wrote it for Julian, John Lennon’s son, after John 
+									 Lennon had filed for divorce. The single lasts seven minutes, and was the first single
+									 produced by Apple Records. In 2013 Billboard named it the tenth best song ever.
 
 2) "I Can't Get No" Satisfaction	 A simple song performed by The Rolling Stones, first performed live on Shindig! 
 									 An American TV show. Rolling Stone magazine picked Satisfaction #2 on its list of the 
@@ -23,4 +23,7 @@ Songs		  						Description
 5) Bohemian Rhapsody				 A prime example of 1970’s progressive rock. Written by vocalist/pianist Freddy Mercury
 									 and performed by Queen. Upon release, it sold over nine million copies and also 
 									 did very well in the United States. 
-=================================== =======================================================================================================
+================================================================================================================================
+
+For a more comprehensive list, please visit Spinditty's '25 Greatest Classic Rock and Roll songs'_
+.. _25 Greatest Classic Rock and Roll songs: https://spinditty.com/genres/25-Greatest-Classic-Rock-and-Roll-Songs
