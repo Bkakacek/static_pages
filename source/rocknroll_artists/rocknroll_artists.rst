@@ -1,10 +1,11 @@
 Popular Artists
 ===============
 
-====================================================================================================================================
+=================================== =======================================================================================================
 Songs		  						Description
-====================================================================================================================================
-1) Chuck Berry			             Otherwise known as Charles Edward Anderson Berry, was an American singer, songwriter, 
+=================================== =======================================================================================================
+1) Chuck Berry			             
+									 Otherwise known as Charles Edward Anderson Berry, was an American singer, songwriter, 
 									 and one of the pioneers that helped create rock and roll. Berry refined and developed
 									 rhythm and blues into the major elements that made rock and roll distinctive.
 
@@ -50,4 +51,4 @@ Songs		  						Description
 									 digital albums as of 2013. The Rolling Stone ranked the Beatles as the best artist of
 									 all time. In 2014, they received the Grammy Lifetime Achievement Award.
 
-====================================================================================================================================
+=================================== =======================================================================================================
