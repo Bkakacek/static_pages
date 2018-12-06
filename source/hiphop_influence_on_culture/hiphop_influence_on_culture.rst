@@ -1,2 +1,2 @@
-Influence on Culture
-====================
+Hip-Hop's Influence on Culture
+==============================
