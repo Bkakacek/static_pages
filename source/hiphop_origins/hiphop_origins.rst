@@ -17,6 +17,7 @@ movement and is known as the "mother of Hip Hop." The genre became mainstream
 in 1979 and continued to spread throughout the world. 
 
 
-.. _Independent Article: https://www.independent.co.uk/arts-entertainment/music/
-news/history-of-hip-hop-music-new-york-dj-kool-herc-google-doodle-clive-cindy-
-campbell-a7887501.html
+To find further information on hip-hop as a genre. Take a look at this 
+`Independent Article`_. 
+
+.. _Independent Article: https://www.independent.co.uk/arts-entertainment/music/news/history-of-hip-hop-music-new-york-dj-kool-herc-google-doodle-clive-cindy-campbell-a7887501.html
