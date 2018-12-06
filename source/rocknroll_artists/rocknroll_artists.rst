@@ -1,5 +1,5 @@
-Popular Artists
-===============
+Rock and Roll Popular Artists
+=============================
 
 =================================== =======================================================================================================
 Songs		  						Description
@@ -16,18 +16,28 @@ Songs		  						Description
 									 
 									 .. image:: chuckberry.jpg
 									 	:width: 50%
+									 This image was taken from the `Rock Hall Inductee Chuck Berry`_ website
 
-2) Little Richard					 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
+									 .. _ Rock Hall Inductee Chuck Berry: https://www.rockhall.com/inductees/chuck-berry
+
+2) Little Richard					 
+									 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
  									 artist, singer-songwriter, and actor. He was another pioneer of rock and roll music who
- 									  also acted as a pop music and culture icon. His music influenced many other popular 
- 									  genres of music, including soul, funk, hip hop, and rhythm and blues.
+ 									 also acted as a pop music and culture icon. His music influenced many other popular 
+ 									 genres of music, including soul, funk, hip hop, and rhythm and blues.
 
 									 He was inducted into the Rock and Roll Hall of Fame as part of its first group of 
 									 inductees in 1986. He was also inducted into the Songwriters Hall of Fame, and received 
 									 a Lifetime Achievement Award from the Rhythm and Blues Foundation.
 
+									 .. image:: littlerichard.jpg
+									 	:width: 50%
+									 This image was taken from the `Rock Hall Inductee Little Richard`_ website
 
-3) Elvis Presley					 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
+									 .. _Rock Hall Inductee Little Richard: https://www.rockhall.com/inductees/little-richard
+
+3) Elvis Presley					 
+									 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
 									 American singer and actor. He was often Regarded as one of the most significant
 									 cultural icons of the 20th century. His career began at Sun Records, who wanted
 									 to bring the sound of African-American music to a wider audience, so they had a
@@ -38,11 +48,18 @@ Songs		  						Description
 									 He won three competitive Grammys, received the Grammy Lifetime Achievement at age 36,
 									 and has been inducted into multiple music halls of fame.
 
+									 .. image:: elvispresley.jpg
+									 	:width: 50%
+									 This image was taken from the `Rock Hall Inductee Elvis Presley`_ website
 
-4) The Beatles				 		 Were an English rock band formed in Liverpool in 1960 consisting of members John Lennon,
+									 .. _Rock Hall Inductee Elvis Presley: https://www.rockhall.com/inductees/elvis-presley
+
+4) The Beatles				 		 
+									 Were an English rock band formed in Liverpool in 1960 consisting of members John Lennon,
 									 Paul McCartney, George Harrison, and Ringo Starr. The Beatles has become widely regarded
 									 as the foremost and most influential music band in history. The band became integral
-									 to pop music’s evolution into an art form and to the development of the counterculture of the 1960s.
+									 to pop music’s evolution into an art form and to the development of the counterculture
+									 of the 1960s.
 
 									 In 1965, Queen Elizabeth II appointed Lennon, Mcartney, Harrison and Starr to the
 									 Members of the Order of the British Empire. They received seven Grammy Awards, and
@@ -51,4 +68,9 @@ Songs		  						Description
 									 digital albums as of 2013. The Rolling Stone ranked the Beatles as the best artist of
 									 all time. In 2014, they received the Grammy Lifetime Achievement Award.
 
+									 .. image:: beatles.jpg
+									 	:width: 50%
+									 This image was taken from the `Rock Hall Inductee The Beatles`_ website
+
+									 .. _Rock Hall Inductee Elvis The Beatles: https://www.rockhall.com/inductees/beatles
 =================================== =======================================================================================================
