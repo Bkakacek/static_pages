@@ -25,16 +25,16 @@ Dan + Shay's hit song speechless has now been at the top of the billboard charts
 It has made an appearance on the charts for 28 weeks in a row since its digital release on 
 May 28, 2018. The song was part of a self titled album for Dan + Shay and features other hit songs including
 
-* Tequila
-* Alone together
-* What keeps you up at night
-* All to myself
-* Keeping score
-* Make or break
-* Stupid Love
-* No such thing
-* My side of the fence
-* Island time
+* *Tequila*
+* *Alone together*
+* *What keeps you up at night*
+* *All to myself*
+* *Keeping score*
+* *Make or break*
+* *Stupid Love*
+* *No such thing*
+* *My side of the fence*
+* *Island time*
 
 Dan + Shay is an American recording band that is based out of Nashville, Tennessee. They are signed with Warner Bro's records.
 The members include Dan Smyers and well as Shay Mooney. 
