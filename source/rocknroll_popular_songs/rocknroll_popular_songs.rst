@@ -25,6 +25,6 @@ Songs		  						Description
 									 did very well in the United States. 
 ================================================================================================================================
 
-For a more comprehensive list, please visit Spinditty's '25 Greatest Classic Rock and Roll songs'_
+For a more comprehensive list, please visit Spinditty's `25 Greatest Classic Rock and Roll songs`_
 
 .. _25 Greatest Classic Rock and Roll songs: https://spinditty.com/genres/25-Greatest-Classic-Rock-and-Roll-Songs
