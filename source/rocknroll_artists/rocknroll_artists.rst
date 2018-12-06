@@ -12,6 +12,7 @@ Songs		  						Description
 									 and the Kennedy Center honors in 2000. He was ranked 7th on best electric guitar
 									 players of all time, and included in several of Rolling Stone’s
 									 “Greatest of All Time” lists.
+									 
 									 .. image:: chuckberry.jpg
 									 	:width 50%
 
