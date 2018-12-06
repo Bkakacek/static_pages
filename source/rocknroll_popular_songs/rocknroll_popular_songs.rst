@@ -33,3 +33,18 @@ Songs		  						Description
 For a more comprehensive list, please visit Spinditty's `25 Greatest Classic Rock and Roll songs`_
 
 .. _25 Greatest Classic Rock and Roll songs: https://spinditty.com/genres/25-Greatest-Classic-Rock-and-Roll-Songs
+
+Below are the top 10 in `TimeOuts Best Classic Rock Songs`_
+
+.. _TimeOuts Best Classic Rock Songs: https://www.timeout.com/newyork/music/best-classic-rock-songs-of-all-time
+
+* Jimi Hendrix, *Purple Haze*
+* Queen & David Bowie, *Under Pressure*
+* Pink Floyd, *Comfortably Numb*
+* The Rolling Stones, *Start Me Up*
+* Creedence Clearwater Revival, *Proud Mary*
+* Neil Young, *Rockin; in the Free World*
+* Led Zeppelin, *Whole Lotta Love*
+* The Clash, *Should I Stay or Should I Go*
+* Aerosmith, *Walk This Way*
+* The Who, *Baba O'Riley*
