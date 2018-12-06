@@ -13,7 +13,7 @@ Songs		  						Description
 									 players of all time, and included in several of Rolling Stone’s
 									 “Greatest of All Time” lists.
 									 
-									 .. image:: chuckberry.jpg
+									 .. image:: static_pages/img/chuckberry.jpg
 									 	:width 50%
 
 2) Little Richard					 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
