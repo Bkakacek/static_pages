@@ -60,6 +60,10 @@ records for a while. His popular albums include *Reasonable Doubt*,
 *The Blueprint*, and *Black Album*. 
 
 * **Kayne West**
+	
+	Kayne Omari West has made a notable impact on the hip-hop through mixing 
+different styles like soul, rock, electro, and synth-pop. Kayne West is also 
+an entrepreneur, producer, songwriter, and fashion designer. 
 
 
 .. _Ranker Website: https://www.ranker.com/crowdranked-list/
