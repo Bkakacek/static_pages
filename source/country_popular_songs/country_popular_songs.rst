@@ -20,3 +20,7 @@ Dierks Bentley         Burning Man
 Chris Young            Hanging On
 Dustin Lynch           Good Girl
 ===================== ============================
+
+For a full and updated list of the hot country songs today, 
+head over to 'billboard'_
+.. _billboard: https://www.billboard.com/charts#id-chart-category-country
