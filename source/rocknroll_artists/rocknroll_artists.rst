@@ -26,7 +26,7 @@ Songs		  						Description
 									 a Lifetime Achievement Award from the Rhythm and Blues Foundation.
 
 
-3) Elivs Presley					 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
+3) Elvis Presley					 Often referred to as the “King of Rock and Roll”, Elvis Aaron Presley was an
 									 American singer and actor. He was often Regarded as one of the most significant
 									 cultural icons of the 20th century. His career began at Sun Records, who wanted
 									 to bring the sound of African-American music to a wider audience, so they had a
