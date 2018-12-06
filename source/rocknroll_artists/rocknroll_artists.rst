@@ -14,7 +14,7 @@ Songs		  						Description
 									 “Greatest of All Time” lists.
 									 
 									 .. image:: static_pages/img/chuckberry.jpg
-									 	:width 50%
+									 	:width: 50%
 
 2) Little Richard					 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
  									 artist, singer-songwriter, and actor. He was another pioneer of rock and roll music who
