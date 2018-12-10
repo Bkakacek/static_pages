@@ -1,6 +1,9 @@
 Rock and Roll Influence on Culture
 ==================================
 
+How did Rock and Roll influence Culture?
+----------------------------------------
+
 Rock and roll influenced lifestyles, fashion, attitudes, and language. It may have
 contributed to the civil rights movement because both African-American and white American
 teens enjoyed the music. The lyrics of rock and roll songs described events and conflicts that

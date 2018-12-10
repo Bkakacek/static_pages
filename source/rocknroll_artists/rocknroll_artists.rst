@@ -1,10 +1,13 @@
 Rock and Roll Popular Artists
 =============================
 
+Artists who had a significant impact on the development of Rock and Roll
+------------------------------------------------------------------------
+
 =================================== =======================================================================================================
 Songs		  						Description
 =================================== =======================================================================================================
-1) Chuck Berry			             
+1) Chuck Berry 
 									 Otherwise known as Charles Edward Anderson Berry, was an American singer, songwriter, 
 									 and one of the pioneers that helped create rock and roll. Berry refined and developed
 									 rhythm and blues into the major elements that made rock and roll distinctive.
@@ -16,9 +19,10 @@ Songs		  						Description
 									 
 									 .. image:: chuckberry.jpg
 									 	:width: 50%
+
 									 This image was taken from the `Rock Hall Inductee Chuck Berry`_ website
 
-									 .. _ Rock Hall Inductee Chuck Berry: https://www.rockhall.com/inductees/chuck-berry
+									 .. _Rock Hall Inductee Chuck Berry: https://www.rockhall.com/inductees/chuck-berry
 
 2) Little Richard					 
 									 With the Birth name Richard Wayne Penniman, Little Richard is an American recording
@@ -32,6 +36,7 @@ Songs		  						Description
 
 									 .. image:: littlerichard.jpg
 									 	:width: 50%
+
 									 This image was taken from the `Rock Hall Inductee Little Richard`_ website
 
 									 .. _Rock Hall Inductee Little Richard: https://www.rockhall.com/inductees/little-richard
@@ -50,6 +55,7 @@ Songs		  						Description
 
 									 .. image:: elvispresley.jpg
 									 	:width: 50%
+
 									 This image was taken from the `Rock Hall Inductee Elvis Presley`_ website
 
 									 .. _Rock Hall Inductee Elvis Presley: https://www.rockhall.com/inductees/elvis-presley
@@ -70,7 +76,8 @@ Songs		  						Description
 
 									 .. image:: beatles.jpg
 									 	:width: 50%
+
 									 This image was taken from the `Rock Hall Inductee The Beatles`_ website
 
-									 .. _Rock Hall Inductee Elvis The Beatles: https://www.rockhall.com/inductees/beatles
+									 .. _Rock Hall Inductee The Beatles: https://www.rockhall.com/inductees/beatles
 =================================== =======================================================================================================
