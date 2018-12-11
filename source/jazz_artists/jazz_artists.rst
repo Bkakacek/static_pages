@@ -19,7 +19,7 @@ Top 5 Jazz Artists of All Time
 * Benny Goodman
 	Benny "King of Swing" Goodman, was the leader of one of the most popular bands in the early 20th century. Also playing a major role in the Civil Rights movement, he was a part of one of the first racially integrated musical groups and promoted racial-equity by not touring the Southern states. His performance at Carnegie hall in  1938 is known to be one of the most important live jazz shows in American history, showcasing jazz as a respectable art form.
 
-You can find a current list of current popular jazz artists at Billboards `Top 2018 Smooth Jazz Artists`_.
+You can find a current list of current popular jazz artists at Billboards `Top 2018 Smooth Jazz Artists`_
 
 
-.. _ Top 2018 Smooth Jazz Artists: https://www.billboard.com/charts/year-end/2018/smooth-jazz-songs-artists
+.. _Top 2018 Smooth Jazz Artists: https://www.billboard.com/charts/year-end/2018/smooth-jazz-songs-artists
