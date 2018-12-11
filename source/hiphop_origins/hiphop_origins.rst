@@ -2,11 +2,13 @@ Hip-Hop Origins
 ===============
 
 **When did Hip Hop Start?**
+---------------------------
 
 The genre of hip hop began about forty-four years ago in the 1970s. The 
 genre began in the post-industrial South Bronx in New York City. 
 
 **Who started the genre?**
+--------------------------
 
 The term was coined by Grandmaster Flash and the Furious Five member Keith 
 Wiggins. The hip-hop movement was kick started by Jamaican-born DJ Kool Herc.

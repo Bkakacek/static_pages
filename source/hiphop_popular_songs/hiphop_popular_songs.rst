@@ -38,7 +38,7 @@ same as Post Malone's song. A group of prominent artists performed "FEFE,"
 including Tekashi69 Nicki Minaj, and Murda Beatz. "Uproar" was performed by Lil 
 Wayne who has been in the music industry since 1991.
  
- The billboard image is not an official image. It was create with MS Paint.
+ The billboard image is not an official image. It was created with MS Paint.
  To find the full list of the most popular songs. Checkout the official 
  `billboard website`_.
 
