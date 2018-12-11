@@ -14,7 +14,7 @@ Most Popular Hip-Hop in 2018 Based on a Ranker Community:
 * **Tupac**
 
 	Tupac Shakur is, without a doubt, a solidified hip-hop legend and has some 
-	of the biggest records like *All Eyez on Me* and *Me Against the World* 
+	of the biggest records like *All Eyez on Me* and *Me Against the World*.
 
 * **The Notorious B.I.G.**
 	
