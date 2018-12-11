@@ -1,5 +1,5 @@
-Popular Artists
-===============
+Popular Jazz Artists
+=====================
 
 Top 5 Jazz Artists of All Time
 ------------------------------
