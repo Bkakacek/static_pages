@@ -1,5 +1,8 @@
-Popular Songs
-=============
+Popular Jazz Songs
+==================
+
+Top 5 Jazz Songs of All Time
+----------------------------
 
 =================================== =======================================================================================================
 Songs		  						Description
@@ -23,3 +26,7 @@ Songs		  						Description
 5) Birdland - Weather Report		Taking on more of a funky, uptown style, this song came at the forefront of the 70s jazz fusion boom.
  									Combined with an electric, rock and roll sound, it is easy to feel the flexibility of the jazz genre. 
 =================================== =======================================================================================================
+
+You can find a more current list of popular Jazz songs at Billboards `Top Smooth Jazz songs`_.
+
+.. _Top Smooth Jazz Songs: https://www.billboard.com/charts/jazz-songs
