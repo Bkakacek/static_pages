@@ -1,5 +1,5 @@
-Popular Artists
-===============
+Popular Country Artists
+=======================
 
 Some of the most popular Artists in Country music:
 --------------------------------------------------
