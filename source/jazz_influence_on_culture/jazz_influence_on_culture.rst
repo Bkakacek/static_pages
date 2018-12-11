@@ -1,5 +1,5 @@
-Influence on Culture
-====================
+Jazz Influence on Culture
+=========================
 
 In 1987, the Joint Houses of Congress declared jazz an American National Treasure.
 
