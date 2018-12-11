@@ -1,5 +1,8 @@
-Influence on Culture
-====================
+Country music Influence on Culture
+===================================
+
+Country Influence
+-----------------
 
 Country music has influenced a modern generation of *cowboy's*.
 The popularity and influence of country has been carried on by 
